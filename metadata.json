@@ -1,0 +1,7 @@
+{
+  "name": "Aira Konnect - Digital Advertising Agency",
+  "description": "A high-end digital advertising agency landing page featuring premium screen advertising solutions, scroll-animated brochure content, and an AI-powered image editing suite.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
